@@ -1,0 +1,29 @@
+﻿body {
+    background-color: #1d7c64;
+    background: url(imagen/fondo.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+form {
+    padding: 60px;
+    max-width: 400px;
+    background-color: #E7E7E7;
+    margin: 0 auto;
+    opacity: .7;
+}
+
+.map {
+    padding: 60px;
+    max-width: 600px;
+    background-color: #E7E7E7;
+    margin: 0 auto;
+    opacity: .7;
+}
+
+.Button2 {
+    padding: 10px;
+    max-width: 100px;
+    background-color: #E7E7E7;
+    margin: 0 auto;
+}

@@ -1,29 +1,30 @@
 ﻿body {
-    background-color: #1d7c64;
-    background: url(imagen/fondo.jpg) no-repeat center center fixed;
-    background-size: cover;
+    background-color: darkcyan;
 }
 
 
-form {
-    padding: 60px;
-    max-width: 400px;
-    background-color: #E7E7E7;
-    margin: 0 auto;
-    opacity: .7;
+.tablita {
+    width: 100%;
+    background-color: #f1f1c1;
+    border: 1px solid black;
 }
 
-.map {
-    padding: 60px;
-    max-width: 600px;
-    background-color: #E7E7E7;
-    margin: 0 auto;
-    opacity: .7;
+.cuerpo {
+    flex-direction: column;
+    padding: 20px;
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
-.Button2 {
+.estilop1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: #cdcdcd;
     padding: 10px;
-    max-width: 100px;
-    background-color: #E7E7E7;
-    margin: 0 auto;
+    margin: 10px;
+    text-align: center;
 }
